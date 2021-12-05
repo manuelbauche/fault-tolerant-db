@@ -63,8 +63,9 @@ public class MyDBReplicableAppGP implements Replicable {
 	 * Set this string as need to specify the path for cassandra's cqlsh
 	 * command, i.e., you can invoke cqlsh as CASSANDRA_HOME_PATH/bin/cqlsh
 	 */
-	public static final String
+	/*public static final String
 			CASSANDRA_HOME_PATH="/Users/arun/apache-cassandra-3.11.11";
+			*/
 
 	/**
 	 * All Gigapaxos apps must either support a no-args constructor or a
